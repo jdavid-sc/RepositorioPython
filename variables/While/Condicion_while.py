@@ -18,4 +18,6 @@ while respuesta.upper() != 'n' :
         suma += valor
         total_valores += 1; 
         
+total = 99
+        
         
